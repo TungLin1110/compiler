@@ -1,0 +1,3 @@
+Type 'make' to get mylexer.token , mylexer.java and some .class files.
+Type 'make run' to test the programs 1.c ,2.c and 3.c.
+Type 'make clean' to delete all .class files.
